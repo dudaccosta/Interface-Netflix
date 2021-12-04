@@ -1,0 +1,170 @@
+body{
+    background-image: url(FundoLOG.jpg);
+    background-size:cover;
+}
+.menu{
+    position: absolute;
+    left: 40px;
+    top: 10px;
+}
+h1{
+    font-size: 34px;
+    color: snow;
+    position: absolute;
+    right: 517px;
+    top: 110px;
+    width: 600px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+.main1{
+    position: absolute;
+    font-size: 20px;
+    right: 546px;
+    top: 240px;
+    color: rgb(82, 82, 82);
+}
+.main2{
+    color:snow;
+    background-color: red;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 15px;
+    position: absolute;
+    top: 369px;
+    right: 538px;
+    width: 300px;
+    border-radius: 7px;
+}
+.main3{
+    position: absolute;
+    top: 100px;
+    width: 400px;
+    height: 580px;
+    right: 500px;
+    background-color: rgba(0, 0, 0, 0.432);
+}
+.main4{
+    color: rgb(172, 172, 172);
+    position: absolute;
+    top: 437px;
+    right: 725px;
+}
+.main5 p{
+    position: absolute;
+    color: rgb(172, 172, 172);
+    top: 424px;
+    right: 540px;
+}
+.main6{
+    position: absolute;
+    top: 500px;
+    left: 499px;
+}
+.main7 p{
+    position: absolute;
+    color: rgb(63, 63, 63);
+    top: 503px;
+    left: 525px;
+}
+.main8 p{
+    position: absolute;
+    color: rgb(63, 63, 63);
+    font-size: 18px;
+    top: 529px;
+    left: 499px;
+}
+.main9 p{
+    position: absolute;
+    color: snow;
+    top: 533px;
+    left: 615px;
+    font-family: 'Arial', serif;
+}
+.main10 p{
+    position: absolute;
+    color: rgb(63, 63, 63);
+    width: 295px;
+    top: 570px;
+    left: 500px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.main11{
+    position: absolute;
+    top: 760px;
+    width: 1400;
+    height: 280px;
+    right: 0px;
+    background-color: rgba(0, 0, 0, 0.432);
+}
+.main12{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 785px;
+    left: 160px;
+    font-family: 'Arial', serif;
+    font-size: 15px;
+}
+.topico1{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 840px;
+    left: 160px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.topico2{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 840px;
+    left: 440px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.topico3{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 840px;
+    left: 720px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.topico4{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 840px;
+    left: 1000px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.topico5{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 880px;
+    left: 160px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.topico6{
+    position: absolute;
+    color: rgb(97, 97, 97);
+    width: 300px;
+    top: 880px;
+    left: 440px;
+    font-family: 'Arial', serif;
+    font-size: 13px;
+}
+.linguagem{
+    position: absolute;
+    width: 200px;
+    top: 940px;
+    left: 160px;
+}
